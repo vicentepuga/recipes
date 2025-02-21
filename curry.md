@@ -1,5 +1,5 @@
-#Tikka Masala
-##Ingredients
+# Tikka Masala
+## Ingredients
 * Chicken/Paneer
 * Yogurt
 * Cashew nuts
